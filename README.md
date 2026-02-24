@@ -10,7 +10,7 @@ A web map using **ArcGIS JavaScript API 5.0** and **Calcite Design System** to s
 ## Setup
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/YOUR_USERNAME/TravelSmartMap-Charlotte.git
 cd TravelSmartMap-Charlotte
 
@@ -32,7 +32,4 @@ Notes
 • Requires internet to fetch ArcGIS modules and Open-Meteo API.
 • Voice search uses browser SpeechRecognition (Chrome recommended).
 
-
-
-
-<img width="1409" height="747" alt="Screenshot 2026-02-24 123105" src="https://github.com/user-attachments/assets/70310bc6-ed5f-42a9-a32d-5a51e27ec86a" />
+![picture](https://github.com/0987poiuLKJH-Adnan/Travel-Smart-Map-Charlotte/blob/main/Screenshot%202026-02-24%20123105.png)
