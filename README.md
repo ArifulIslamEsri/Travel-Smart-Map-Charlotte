@@ -6,7 +6,9 @@ A web map using **ArcGIS JavaScript API 5.0** and **Calcite Design System** to s
 - Distance calculation from map center
 - Live weather info and 3-hour forecast
 - Route link via Google Maps
+
 ## Setup
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/TravelSmartMap-Charlotte.git
